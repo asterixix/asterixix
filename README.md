@@ -6,7 +6,7 @@ Outside the job, I channel my creativity and energy into diverse pursuits — fr
 
 I believe that the synergy between artistry 🎨, technology 📱, and community 👥 creates a powerful force for change 💪, and that’s the essence of who I am. I invite you to join me on this journey toward a future where creativity and purpose meet at the intersection of innovation and care. 🫶
 
-### [Resume](files/AS2025.pdf)
+### [Resume](https://sendyka.dev/resume)
 
 ### **Contact**
 
