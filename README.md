@@ -22,6 +22,8 @@ I believe that the synergy between artistry 🎨, technology 📱, and community
 
 [🔗 linkedin.com/in/asendyka](https://www.linkedin.com/in/asendyka/)
 
+![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4789&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 
 
 
