@@ -1,10 +1,6 @@
-# 👋 **Hi there!** 
+# **Hewyo!** 
 
-I'm a creative soul 👨‍🎨 driven by passion and an unwavering commitment to my work. My journey in the IT world 💻 began five years ago as an eager *IT Support Intern*, and along the way, I’ve embraced challenges that have led me to thrive as a *Freelance Website Developer* 👨🏼‍💻, *IT Support Manager* or even *Founder* of own Foundation. I blend my technical expertise with a love for contemporary art and a steadfast dedication to non-governmental causes, always seeking ways to connect technology with a greater social purpose. 🤗
-
-Outside the job, I channel my creativity and energy into diverse pursuits — from playing video games 👾 and exploring vibrant cityscapes 🌆 to practicing yoga 🧘🏻, and contributing to meaningful social initiatives. Each day presents a new opportunity to learn 📚, innovate 🧪, and impact lives 💕, and I am excited by the prospect of continually growing both professionally and personally.
-
-I believe that the synergy between artistry 🎨, technology 📱, and community 👥 creates a powerful force for change 💪, and that’s the essence of who I am. I invite you to join me on this journey toward a future where creativity and purpose meet at the intersection of innovation and care. 🫶
+I'm Artur, a freelance web developer and IT specialist with 7 years of experience and over 40 delivered projects. Alongside that I write research articles on internet culture, new technologies and management. I'm currently studying Information Management at Jagiellonian University and recently finished a postgraduate program in Cybersecurity. My background also includes a BA in Cultural Studies, which shapes how I think about technology and society together. Recently I led the AI Literacy Lab project at UJ and I keep building open source tools like Konbase and Batuter. If you're working on something in web development, AI tooling or digital culture research, feel free to reach out, I'm always open to collaboration.
 
 # Tech Stack 🚀
 
@@ -12,7 +8,7 @@ I believe that the synergy between artistry 🎨, technology 📱, and community
 
 ### [Resume](https://sendyka.dev/resume)
 
-### **Contact**
+# **Contact**
 
 [🌐 sendyka.dev](https://sendyka.dev)
 
@@ -21,6 +17,8 @@ I believe that the synergy between artistry 🎨, technology 📱, and community
 [📱 +48 500 705 140](tel:+48500705140)
 
 [🔗 linkedin.com/in/asendyka](https://www.linkedin.com/in/asendyka/)
+
+# Coding time tracking since 2024
 
 ![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4789&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
