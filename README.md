@@ -18,7 +18,7 @@ I'm Artur, a freelance web developer and IT specialist with 7 years of experienc
 
 [🔗 linkedin.com/in/asendyka](https://www.linkedin.com/in/asendyka/)
 
-# Coding time tracking since 2024
+# Coding time tracking
 
 ![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4789&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
