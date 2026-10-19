@@ -1,6 +1,6 @@
 # **Hewyo!** 
 
-I'm Artur, the AI-Native web developer and ICT specialist with 8 years of experience and over 40 delivered projects. I'm currently studying Information Management at Jagiellonian University and recently finished a postgraduate program in Cybersecurity. My background also includes a BA in Cultural Studies and Technician Degree in ICT, some years spent as IT specialist in AON, Stefanini Group, JCC Krakow, which shapes how I think about technology and society together. I keep building open source tools like Polish Academic MCP or Precek. Also, I'm publishing my researches around Culture, DH, Information and Knowledge Studies in peer-reviewed journals. I'm always open to collaboration.
+I'm Artur, the AI-Native web developer and ICT specialist with 8 years of experience and over 40 delivered projects as freelancer for Sole Traders and SMBs. I'm currently studying Information Management at Jagiellonian University and recently finished a postgraduate program in Cybersecurity. My background also includes a BA in Cultural Studies and Technician Degree in ICT, some years spent as IT specialist in AON, Stefanini Group, JCC Krakow, which shapes how I think about technology and society together. I keep building open source tools like Polish Academic MCP or Precek. Also, I'm publishing my researches around Culture, DH, Information and Knowledge Studies in peer-reviewed journals. I'm always open to collaboration.
 
 # Tech Stack 🚀
 
