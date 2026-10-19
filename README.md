@@ -1,6 +1,6 @@
 # **Hewyo!** 
 
-I'm Artur, a freelance web developer and IT specialist with 7 years of experience and over 40 delivered projects. Alongside that I write research articles on internet culture, new technologies and management. I'm currently studying Information Management at Jagiellonian University and recently finished a postgraduate program in Cybersecurity. My background also includes a BA in Cultural Studies, which shapes how I think about technology and society together. Recently I led the AI Literacy Lab project at UJ and I keep building open source tools like Konbase and Batuter. If you're working on something in web development, AI tooling or digital culture research, feel free to reach out, I'm always open to collaboration.
+I'm Artur, the AI-Native web developer and ICT specialist with 8 years of experience and over 40 delivered projects. Alongside that I write research articles on internet culture, new technologies and management. I'm currently studying Information Management at Jagiellonian University and recently finished a postgraduate program in Cybersecurity. My background also includes a BA in Cultural Studies, which shapes how I think about technology and society together. I keep building open source tools like Konbase, Batuter, Polish Academic MCP or Precek. Also, I'm publishing my researches around Culture, DH, Information and Knowledge Studies in peer-reviewed journals. I'm always open to collaboration.
 
 # Tech Stack 🚀
 
@@ -15,17 +15,6 @@ I'm Artur, a freelance web developer and IT specialist with 7 years of experienc
 [📱 +48 500 705 140](tel:+48500705140)
 
 [🔗 linkedin.com/in/asendyka](https://www.linkedin.com/in/asendyka/)
-
-# Coding time tracking
-
-![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=4789&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-
-<a href="https://heatmap.shymike.dev?id=4789&labels=true&standalone=true" title="Click to view detailed data for each day!">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=4789&labels=true&theme=dark">
-        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=4789&labels=true&theme=light">
-    </picture>
-</a>
 
 
 
